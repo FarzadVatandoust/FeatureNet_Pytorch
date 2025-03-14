@@ -11,7 +11,7 @@ This repository provides a PyTorch implementation of FeatureNet, a 3D shape clas
 
 
 ## Dataset:
-The dataset used for this project can be found here M[achining-feature-dataset](https://github.com/madlabub/Machining-feature-dataset). Keep in mind that the folder stucture of the original datastructure is different from what was used in this project.
+The dataset used for this project can be found here [Machining-feature-dataset](https://github.com/madlabub/Machining-feature-dataset). Keep in mind that the folder stucture of the original datastructure is different from what was used in this project.
 
 
 ## Dependencies:
