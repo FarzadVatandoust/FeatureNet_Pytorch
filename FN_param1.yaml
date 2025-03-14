@@ -1,0 +1,24 @@
+
+
+Data:
+  root_dir: "../../00-The original dataset"
+  vox_dir: "../../00-The original dataset/binvox64-701515"
+  
+  num_class: 24
+  in_channels: 1
+
+  train:
+
+   filelist: "../../00-The original dataset/vox_filelist/FN_1.00_train.txt"
+   batch_size: 32
+    
+    
+
+  val:
+    
+    filelist: "../../00-The original dataset/vox_filelist/FN_1.00_val.txt"
+
+  test:
+
+    batch_size: 32
+    filelist: "../../00-The original dataset/vox_filelist/FN_1.00_test.txt"
